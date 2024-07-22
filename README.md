@@ -1,4 +1,4 @@
-# Saleor App Example: Taxjar integration
+# Saleor App Example: TaxJar integration
 
 Note: This repository is an example, which means:
 
@@ -8,7 +8,7 @@ Note: This repository is an example, which means:
 
 ### The stack
 
-Taxjar app is based on App Template - you can check it [here](https://github.com/saleor/saleor-app-template)
+TaxJar app is based on App Template - you can check it [here](https://github.com/saleor/saleor-app-template)
 
 ## How to use this project
 
